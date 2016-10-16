@@ -1,1 +1,10 @@
 www.sylhbd.com
+Host: ssh.sylhbd.com
+Username: sylhbd.com
+Port: 22
+password:718756home
+Host: ftp.sylhbd.com
+Username: sylhbd.com
+Port: 21
+password:718756home
+
